@@ -1,7 +1,8 @@
 ## Welcome! I'm Lucy! 👋
 
-I am a final-year PhD student from New Zealand, with a background in bioinformatic engineering in the precision medicine industry. 
-I love learning about new technology and jump at opportunities to incorporate this into my work. I am passionate about improving access to precision medicine in clinical care for patients and clinical teams, particularly in cancer genetics and epigenetics.
+I am a molecular scientist/bioinformatician from New Zealand, with a background in bioinformatic engineering in the precision medicine industry, and a PhD in cancer epigenetics and nanopore sequencing in diagnostic medicine.  
+I love learning about new technology and jump at opportunities to incorporate this into my work. I am passionate about improving access to precision medicine in clinical care for patients and clinical teams, particularly in cancer genetics and epigenetics.  
+I'm currently working for both the Chris O'Brien Lifehouse in Sydney AUS, as a bioinformatician in nanopore diagnostics development, and also a postdoc in the Stevens lab, University of Otago, Wellington NZ.
 
 <!--
 **lucy924/lucy924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
